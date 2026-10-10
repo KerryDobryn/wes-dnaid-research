@@ -1,0 +1,35 @@
+{
+  "version": "0.1.0",
+  "files_sha256": {
+    ".github/workflows/tests.yml": "415262d58ff143d45b1ac88fbf00898833f9fd5c210fe8a5fc1bfbdea5bcaab1",
+    ".gitignore": "feeb1572bd620be5f65575b9009abbf6c94a33d0fb2fce1fe31a80445aaa6fe3",
+    "LICENSE": "2fa2f9460dd593337f661b058bce475099db1806c74dd7edf871591516d6741d",
+    "README.md": "4b92cff4e74aad173a2bd23f978048ab1247461f25f3424db516ec0e6a250ee0",
+    "dnaid/__init__.py": "91447944015cec709e8aa7655f7e9d64e1e4508e7023a57fe3746911c0fc6fed",
+    "dnaid/__main__.py": "cf7390a2508a0fcad4777a4a629fc5212ab655cb45845975995f835676a834e3",
+    "dnaid/cli.py": "3672822d102d290e9a935d638827fed2841be664d72fbc84641956214e56796c",
+    "dnaid/core.py": "4a39c7833fe7599ccf9e66a6d367b9aea1397013f370a07b4175027c5f46d101",
+    "dnaid/quality.py": "f1e9acbcabb094db285c3d41bd6b46a2f1a9d635e69145d39ca317450a45ab94",
+    "docs/PRIVACY.md": "27bc3e5b4466952eeaddca358adbdf879398a412bf9f4c69f9960fdf2c776e82",
+    "docs/PUBLISH.md": "57ddce80f4becfe6c78f2615031ff1d103cc49669e931969aac732ada7dee4bd",
+    "docs/REAL_DATA.md": "452f06e425c9277d5592c34cb5f341344bef2514e8630276e10bd45e27c9dd0c",
+    "docs/RELATED_WORK.md": "4fa1f3c50f4654a9b179c188315d364f9425dec46d661d208687b1f26f3e7c1f",
+    "examples/full.vcf": "c9e911317e64d8577b535512fae3d550e2a5085c768d7147b7f1f455dfe61ac4",
+    "examples/half-a.vcf": "f018c40816563d4465a40a6200d6438b6ac0af3191363b22c5fc4b44fa38e8fe",
+    "examples/half-b.vcf": "f018c40816563d4465a40a6200d6438b6ac0af3191363b22c5fc4b44fa38e8fe",
+    "examples/panel.tsv": "cd5b3a49f862f96f3ffeb3e2697fed42c5847e6b7be88d12ad8092db225bdfa9",
+    "examples/policy.json": "1709e646fc16d0da3cc976b1db4148c9a6ca1ac39a04b45bb67633dacab9bb47",
+    "examples/unconstrained.vcf": "c9e911317e64d8577b535512fae3d550e2a5085c768d7147b7f1f455dfe61ac4",
+    "pyproject.toml": "5fdf1fcd1e5048abfe618a7ee7d8704383e573495bacd448bc8984d280d64d92",
+    "tests/test_dnaid.py": "5d942351338872a693bfed03c42fa9f39f1e5f78045f12bedb6c64b731acc8c8",
+    "workflows/genotype/main.nf": "12f3a50209397c4d34b27121e05c022796e0e9795ce89b09996ed9cf2feb8b21",
+    "workflows/genotype/nextflow.config": "ff45ec6693d280dbe572c3edca201f4d01df9855331bb292021962be7ae2b46e"
+  },
+  "data": "synthetic only; no personal enrollment assets",
+  "tested_python": [
+    "3.12",
+    "3.13"
+  ],
+  "unit_tests_passed": 10,
+  "nextflow_validation": "26.04.2 preview parsed workflow and rejected missing parameters; portable workflow not end-to-end tested"
+}
